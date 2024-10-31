@@ -15,7 +15,7 @@ echo $y;   # Sattwik
 # The variable $x will hold the value 5, and the variable $y will hold the value "John".
 
 
-# Rules for php variables----
+# Rules for php variables:
 
 /*
 
